@@ -1,4 +1,11 @@
 # Freshman-Final-Project
-The individual python gui project 
+This is open source
+Features
+- Login
+- Register
+- Cart
+- Coupon ( Use to buy a book in this application )
+- Purchase
+- And more
 
-All of the pictures is in need to uses.
+*** If you want to use coupon add or remove, you need to open sqlite file and edit the table. *** 
